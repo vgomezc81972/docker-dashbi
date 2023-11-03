@@ -18,6 +18,7 @@ Log in to Docker Hub in your browser and hit 'Create repository'. Name the repo 
 
 > Make sure you keep this repo as public.
 
+
 ### 3. Add your Docker Hub credentials to GitHub Secrets
 
 > You should have your Docker Hub username and password.
