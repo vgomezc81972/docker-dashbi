@@ -1,5 +1,5 @@
 
-#creacion imagen VITOTOJU
+#creacion imagen VITOTOJU -- DIANA
 docker build -t dashbi:v1 .
 
 #Ejecucion de la imagen
