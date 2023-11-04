@@ -1,5 +1,5 @@
 
-#creacion imagen VITOTOJU   DFDSFGHD
+#creacion imagen VITOTOJU   D
 docker build -t dashbi:v1 .
 
 #Ejecucion de la imagen
