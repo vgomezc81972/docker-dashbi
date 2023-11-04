@@ -1,5 +1,5 @@
 
-#creacion imagen
+#creacion imagen VITOTOJU
 docker build -t dashbi:v1 .
 
 #Ejecucion de la imagen
